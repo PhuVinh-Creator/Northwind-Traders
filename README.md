@@ -1,2 +1,2 @@
-# Northwind-Traders
-Power BI Dashboard Analysis
+# Northwind-Traders-Logistics
+Power BI Dashboard Shipment Analysis
