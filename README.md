@@ -75,4 +75,4 @@ Both dashboards support dynamic filtering across:
 
 ## Author ✍️
 
-**Steven Nguyen** — Temple University
+**Steven Nguyen** 
