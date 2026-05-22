@@ -1,6 +1,10 @@
 # Northwind-Traders-Logistics
 Power BI Dashboard Shipment Analysis
 
+<img width="1278" height="720" alt="Screenshot 2026-05-11 221729" src="https://github.com/user-attachments/assets/a933e5ed-6477-4c64-a994-0b548b2d47b3" />
+<img width="1278" height="722" alt="Screenshot 2026-05-11 221831" src="https://github.com/user-attachments/assets/bdfa9ca9-d085-4294-b7f2-1c05f6a387f7" />
+
+
 ## Overview 📋
 
 This project presents an interactive business intelligence dashboard built for **NorthWind**, covering two core analytical views: **Sales Analysis** and **Shipment Analysis**. The dashboards provide a comprehensive overview of the company's sales performance and logistics efficiency across multiple time periods, regions, and customer segments.
